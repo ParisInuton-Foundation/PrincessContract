@@ -23,7 +23,7 @@ Total Supply
 1. 75% burned of inheritance
 2. 25% in Liquid Pool
 3. Buy Fee 9.5%
-4. Sell Fee 16%
+4. Sell Fee 13%
 
 More Detail: https://princesstokens.com/.  
 Contract: https://bscscan.com/address/0x0076628E2ec359f71883193b7634Dd248ca92a49
